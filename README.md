@@ -13,7 +13,7 @@ Pour installer ce répertoire, vous pouvez ouvrir votre terminal et cloner ce
 répertoire dans le dossier de votre choix:
 
 ``` sh
-git clone https://github.com/miguelgrinberg/Flask-SocketIO-Chat
+git clone https://github.com/PatWg/Flask-SocketIO-Chat
 ```
 
 Puis, il est recommandé de créer un environnement virtuel pour en pas impacter
